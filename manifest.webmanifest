@@ -1,0 +1,49 @@
+{
+  "name": "Ikuu Boys High School",
+  "short_name": "Ikuu Boys",
+  "description": "Ikuu Boys High School, Chuka, Tharaka Nithi. Onwards to Excellence.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12392a",
+  "theme_color": "#12392a",
+  "lang": "en",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Admissions",
+      "url": "./#/admissions"
+    },
+    {
+      "name": "Student Portal",
+      "url": "./#/student"
+    },
+    {
+      "name": "Contact",
+      "url": "./#/contact"
+    }
+  ]
+}

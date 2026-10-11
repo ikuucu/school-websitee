@@ -1,0 +1,6 @@
+{
+  "appId": "com.ikuuboys.app",
+  "appName": "Ikuu Boys High School",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
